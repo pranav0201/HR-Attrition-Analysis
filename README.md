@@ -1,4 +1,4 @@
-                                                                              HR Attrition Analysis using MySQL
+HR Attrition Analysis using MySQL
 <<<-----------------------Project Overview----------------------->>>
 
 Employee attrition is a critical business problem that impacts hiring costs, productivity, and team stability.
